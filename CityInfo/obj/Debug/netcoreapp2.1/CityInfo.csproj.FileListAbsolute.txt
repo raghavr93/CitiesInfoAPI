@@ -1,0 +1,14 @@
+D:\Visual Studio\ProjectAPI\CityInfo\bin\Debug\netcoreapp2.1\CityInfo.deps.json
+D:\Visual Studio\ProjectAPI\CityInfo\bin\Debug\netcoreapp2.1\CityInfo.runtimeconfig.json
+D:\Visual Studio\ProjectAPI\CityInfo\bin\Debug\netcoreapp2.1\CityInfo.runtimeconfig.dev.json
+D:\Visual Studio\ProjectAPI\CityInfo\bin\Debug\netcoreapp2.1\CityInfo.dll
+D:\Visual Studio\ProjectAPI\CityInfo\bin\Debug\netcoreapp2.1\CityInfo.pdb
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.csprojAssemblyReference.cache
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.RazorAssemblyInfo.cache
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.RazorAssemblyInfo.cs
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.AssemblyInfoInputs.cache
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.AssemblyInfo.cs
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.dll
+D:\Visual Studio\ProjectAPI\CityInfo\obj\Debug\netcoreapp2.1\CityInfo.pdb
